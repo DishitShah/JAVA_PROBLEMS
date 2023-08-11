@@ -10,5 +10,6 @@ public class question4 {
         else{
             System.out.println("It's Consonant");
         }
+        sc.close();
     }
 }

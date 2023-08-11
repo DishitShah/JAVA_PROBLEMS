@@ -14,6 +14,6 @@ public class question6 {
             }
         }
         System.out.println("Total number of odd integers in the given array of 10 elements is "+count);
+        sc.close();
 }
 }
-//8.	Write a Java program to count total number of odd integers in the given array of 10 elements.

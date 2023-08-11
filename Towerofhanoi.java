@@ -16,5 +16,6 @@ public class Towerofhanoi{
         System.out.println("Enter the number of disks");
         int n = sc.nextInt();
         towerOfHanoi(n, 'A', 'C', 'B');
+        sc.close();
     }
 }
